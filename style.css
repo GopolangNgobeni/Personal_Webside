@@ -8,7 +8,7 @@ body{
     font-family:Arial, Helvetica, sans-serif;
 }
 .logo{
-    color: black;
+    color: rgb(32, 32, 32);
     font-size: 35px;
     font-weight: 600;
 }
@@ -16,7 +16,7 @@ body{
     color: white;
 }
 .logo span{
-    color: steelblue;
+    color: rgb(32,32,32);
     font-family: sans-serif;
     transition: all 0.7s ease;
 }
@@ -150,7 +150,7 @@ html{
     margin-bottom: 30px;
   }
   .btn-primary1:hover{
-    background-color: steelblue;
+    background-color: rgb(32, 32, 32);
     transition: all 0.7s ease;
     color: white;
   }
@@ -158,12 +158,12 @@ html{
     text-align: center;
   }
   .pgg-skill{
-    color: steelblue;
+    color: rgb(32,32,32);
     text-align: center;
     margin: 20px 0px 20px 0px;
   }
   .core-s{
-    color: steelblue;
+    color: rgb(32, 32, 32);
     text-align: center;
     margin: 20px 0px 20px 10px;
   }
@@ -204,9 +204,9 @@ html{
     bottom: 40px;
     right: 20px;
     border-radius: 50%;
-    border: 2px solid steelblue;
+    border: 2px solid rgb(32, 32, 32);
     color: white;
-    background: steelblue;
+    background: rgb(32,32,32);
     text-decoration: none;
     text-align: center;
     font-size: 22px;
@@ -413,7 +413,7 @@ nav.navi{
   }
   nav.navi ul li a:hover{
     color: white;
-    background: steelblue;
+    background: rgb(32,32,32);
   }
   nav.navi .menu-btn i{
     color: black;
@@ -446,7 +446,7 @@ nav.navi{
       position: absolute;
       top: 60px;
       left: -100%;
-      background: steelblue;
+      background: rgb(32,32,32);
       height: 500px;
       width: 100%;
       text-align: center;
