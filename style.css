@@ -388,7 +388,7 @@ nav.navi{
     z-index: 999;
   }
   .navi.sticky{
-    background-color: rgb(64,64,64);
+    background-color: rgb(96,96,96);
     transition: all 0.5s ease;
   }
   nav.navi ul li a.active{
@@ -413,7 +413,7 @@ nav.navi{
   }
   nav.navi ul li a:hover{
     color: white;
-    background: rgb(32,32,32);
+    background: rgb(96,96,96);
   }
   nav.navi .menu-btn i{
     color: black;
@@ -446,7 +446,7 @@ nav.navi{
       position: absolute;
       top: 60px;
       left: -100%;
-      background: rgb(32,32,32);
+      background: rgb(96,96,96);
       height: 500px;
       width: 100%;
       text-align: center;
