@@ -413,7 +413,7 @@ nav.navi{
   }
   nav.navi ul li a:hover{
     color: white;
-    background: rgb(128,128,128);
+    background: rgb(32,32,32);
   }
   nav.navi .menu-btn i{
     color: black;
